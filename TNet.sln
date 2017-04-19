@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TConsoleApp", "TConsoleApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWpfApp", "TWpfApp\TWpfApp.csproj", "{2532AC5F-40B5-4F3A-8098-E86F62F7A129}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{903CBCF3-C232-423C-89EE-B0365CFA8F3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2532AC5F-40B5-4F3A-8098-E86F62F7A129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2532AC5F-40B5-4F3A-8098-E86F62F7A129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2532AC5F-40B5-4F3A-8098-E86F62F7A129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903CBCF3-C232-423C-89EE-B0365CFA8F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903CBCF3-C232-423C-89EE-B0365CFA8F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903CBCF3-C232-423C-89EE-B0365CFA8F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903CBCF3-C232-423C-89EE-B0365CFA8F3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
